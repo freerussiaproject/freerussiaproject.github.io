@@ -22,6 +22,10 @@ body {
   margin-right: auto;
 } 
 
+.video-container {
+  padding: 20px;
+}
+
 .simply-countdown {
   display: flex;
   align-items: center;
