@@ -53,3 +53,23 @@ body {
 .separator {
   margin: 0 10px;
 }
+
+.support-children {
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  font-size: 18px;
+  }
+  
+.support-children p, .support-children a {
+  margin-bottom: 5px;
+  }
+  
+.support-children a {
+  color: #0072BC;
+  text-decoration: none;
+  }
+  
+.support-children a:hover {
+  text-decoration: underline;
+  }
